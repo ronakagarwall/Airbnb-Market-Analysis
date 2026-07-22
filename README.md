@@ -148,6 +148,8 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **Ronak Agarwall**
+
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights through analytics and visualization.
+
 
 Feel free to connect with me on LinkedIn or explore my other projects on GitHub.
