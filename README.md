@@ -70,11 +70,11 @@ Airbnb_Market_Analysis/
 │   ├── airbnb_raw_data.csv
 │   └── airbnb_cleaned.csv
 │
+├── images/
+│
 ├── notebooks/
 │   ├── 01_Data_Cleaning.ipynb
 │   └── 02_Airbnb_Market_Intelligence.ipynb
-│
-├── images/
 │
 ├── README.md
 └── requirements.txt
