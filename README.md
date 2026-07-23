@@ -64,7 +64,7 @@ This project demonstrates the complete data analysis process including:
 ## 📂 Repository Structure
 
 ```text
-Airbnb_Market_Analysis/
+Airbnb-Market-Analysis/
 │
 ├── data/
 │   ├── airbnb_raw_data.csv
@@ -160,7 +160,7 @@ During preprocessing, additional features including **Guests, Bedrooms, Beds, Ba
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ronakagarwall/Airbnb_Market_Analysis.git
+git clone https://github.com/ronakagarwall/Airbnb-Market-Analysis.git
 ```
 
 ### 2. Install the required libraries
