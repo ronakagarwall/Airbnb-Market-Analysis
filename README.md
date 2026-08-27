@@ -1,4 +1,5 @@
-# 🏡 Airbnb Market Analysis
+# Airbnb Market Analysis
+---
 
 An end-to-end Exploratory Data Analysis (EDA) project built with Python to analyze Airbnb listings and uncover insights into pricing trends, customer engagement, property characteristics and market dynamics.
 
