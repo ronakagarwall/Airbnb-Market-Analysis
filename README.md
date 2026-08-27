@@ -22,7 +22,7 @@ This project demonstrates the complete data analysis process including:
 - Recommendations
 
 ---
-## 📸 Project Preview
+## Project Preview
 
 ### Price Category Distribution
 <p align="center">
@@ -51,7 +51,7 @@ This project demonstrates the complete data analysis process including:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas
